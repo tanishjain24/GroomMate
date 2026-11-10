@@ -12,7 +12,7 @@ const products = [
 
 function App() {
   const [tab, setTab] = useState("Overview");
-  const [name, setName] = useState("Alex");
+  const [name, setName] = useState("Tanish");
   const [goal, setGoal] = useState("Build a consistent routine");
   const [focus, setFocus] = useState("Skin care");
   const [showSetup, setShowSetup] = useState(false);
